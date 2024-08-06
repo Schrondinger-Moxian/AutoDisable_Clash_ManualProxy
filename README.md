@@ -52,3 +52,22 @@
   ```
  利用此代码创建一个bat文件，在第5步操作中将 程序或脚本 选择为创建的批处理文件【DisableManualProxy.bat】
  其他操作不变，也是可以实现关机时禁用手动设置代理。
+
+如果嫌每一步设置太麻烦，可以下载【DisableManualProxy.xml】文件，点击 任务计划程序中的 【导入任务】
+
+![image](https://github.com/user-attachments/assets/4e004152-edf0-4844-b4e0-f9a982721b79)
+
+选中【DisableManualProxy.xml】并导入，但是导入后，选中此任务，点击【属性】
+
+![image](https://github.com/user-attachments/assets/7e596ae3-1af7-46df-8b64-9c10ece81831)
+
+将 常规 中的账户更改为自己计算机用户名（不确定不改行不行，反正改了可以）
+
+![image](https://github.com/user-attachments/assets/c9b52a3f-dcda-40e1-8fef-4c04f35d5c26)
+
+将 操作 中的路径改为自己的bat文件或者ps1文件路径
+
+![image](https://github.com/user-attachments/assets/4b8e189a-640c-4493-8e14-749509745717)
+
+
+
