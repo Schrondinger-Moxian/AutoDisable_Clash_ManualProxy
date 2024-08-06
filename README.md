@@ -1,0 +1,2 @@
+# AutoDisable_Clash_ManualProxy
+关机忘记关闭Clash For Windows的手动设置代理服务器的简单解决方案-自动化关闭电脑的手动代理
